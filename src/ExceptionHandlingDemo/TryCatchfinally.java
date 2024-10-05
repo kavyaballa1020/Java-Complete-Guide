@@ -1,6 +1,6 @@
 package ExceptionHandlingDemo;
 
-public class TryCatch {
+public class TryCatchfinally {
 	public static void main(String args[]) {
 		int a=10;
 		try{
